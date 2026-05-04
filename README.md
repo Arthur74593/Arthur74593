@@ -1,38 +1,26 @@
 # 👋 Olá, eu sou Arthur
 
-🎓 Estudante interessado em tecnologia e desenvolvimento de software  
+🎓 Estudante de **Informática para Internet no IFRN**
 
 ---
 
-## 📚 Formação e estudos
-- Estudando **programação e lógica de algoritmos**
-- Conhecimentos iniciais em **Python**
-- Aprendendo sobre **Git e GitHub**
+## 📌 Sobre mim
+Considero-me uma pessoa que sempre busca novos conhecimentos e sempre tentando me aprimorar
+<!-- Adicione aqui uma breve descrição sobre você -->
 
 ---
 
-## 🛠️ Habilidades
-- 💻 Python (básico)
-- 🧠 Lógica de programação
-- 🔧 Controle de versão com Git
-
----
-
-## 📌 Projetos
-- Exercícios práticos em Python voltados para lógica e resolução de problemas  
-- Repositórios com foco em aprendizado contínuo  
-
----
-
-## 🎯 Objetivos
-- Desenvolver projetos práticos e aplicáveis  
-- Aprofundar conhecimentos em programação  
-- Evoluir como desenvolvedor  
+## 📚 Atualmente aprendendo
+- Princípios de Design Web  
+- HTML e CSS  
+- Python  
+- Lógica de programação  
 
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/SEU_USERNAME  
+- GitHub: Arthur74593  
+- Email: Arthurvinicius_10@outlook.com  
 
 <!--
 **Arthur74593/Arthur74593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
