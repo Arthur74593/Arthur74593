@@ -19,7 +19,7 @@ Considero-me uma pessoa que sempre busca novos conhecimentos e sempre tentando m
 ---
 
 ## 📫 Contato
-- GitHub: Arthur74593  
+- GitHub: (Arthur74593)[https://github.com/Arthur74593]  
 - Email: Arthurvinicius_10@outlook.com  
 
 <!--
